@@ -1,5 +1,5 @@
-# Co2-Analyse
-CO₂ Emissions Analysis – Global Trends and Insights
+# CO₂ Emissions Analysis – Global Trends and Insights
+
 Project Overview
 
 This project explores global CO₂ emissions data from 1900 to 2025 using Python. The goal was to understand long-term emission trends, analyze differences between energy sources, and highlight the contribution of the largest emitting countries. The analysis focuses on data cleaning, transformation, visualization, and deriving insights that support environmental decision-making.
